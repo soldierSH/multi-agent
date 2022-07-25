@@ -2,6 +2,7 @@
 
 Projeto feito para a avaliação da disciplina optativa de Tópicos Especiais em IA. UFPA - Ciência da Computação.
 ## Descrição
+Foi utilizado o framework JADE(https://jade.tilab.com/) na aplicação.
 O projeto consiste em um sistema para alugar carros. Três agentes fazem parte do sistema, são eles:
 
 - ***Central***: agente responsável pela comunicação entre os outros dois agentes, ele determina qual carro do modelo pedido pelo locador será alugado, isso feito com base no valor do aluguel, o agente central sempre escolhe o carro com menor preço. Uma vez instaciado, o agente central permanece em execução.
