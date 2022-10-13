@@ -1,6 +1,6 @@
 # Projeto Multiagentes
 
-Projeto feito para a avaliação da disciplina optativa de Tópicos Especiais em IA. Ciência da Computação - UFPA.
+Projeto realizado para a avaliação da disciplina optativa de Tópicos Especiais em IA. Ciência da Computação - UFPA.
 ## Descrição
 Foi utilizado o framework JADE (https://jade.tilab.com/) na aplicação.
 O projeto consiste em um sistema para aluguel de carros. Três agentes fazem parte do sistema, são eles:
